@@ -1314,13 +1314,13 @@
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
     (path "/f81e2caa-f7a2-40dd-8668-c447b8223c0a"
-      (reference "C1") (unit 1) (value "1uF") (footprint "")
+      (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/84d51517-c996-417b-a237-4ad19d974db6"
-      (reference "C2") (unit 1) (value ".1uF") (footprint "")
+      (reference "C2") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/a26897a0-770c-4bec-b8f8-5596714e1a8a"
-      (reference "C3") (unit 1) (value ".1uF") (footprint "")
+      (reference "C3") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/a0c0156d-8f3c-4c82-999f-49c9d8d8e545"
       (reference "J1") (unit 1) (value "AM2301B") (footprint "")
@@ -1332,16 +1332,16 @@
       (reference "Q1") (unit 1) (value "Q_NPN_EBC") (footprint "")
     )
     (path "/3d34d1de-c4a7-45be-a472-9cc69d875dcb"
-      (reference "R1") (unit 1) (value "4.7k") (footprint "")
+      (reference "R1") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/559ad0cc-1a42-431e-9aaf-51b76ce9de8e"
-      (reference "R2") (unit 1) (value "4.7k") (footprint "")
+      (reference "R2") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/0a93578e-0d45-4af8-aab5-29ca58c3ec35"
-      (reference "R3") (unit 1) (value "470k") (footprint "")
+      (reference "R3") (unit 1) (value "470k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/0be8520d-20a4-40c2-a511-53c442891815"
-      (reference "R4") (unit 1) (value "?") (footprint "")
+      (reference "R4") (unit 1) (value "?") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/db7b86be-d02f-4f2d-9a67-25a0b7eb5f5e"
       (reference "RV1") (unit 1) (value "10k") (footprint "")
